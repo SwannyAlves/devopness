@@ -1,5 +1,17 @@
 # @devopness/sdk-python
 
+## 2.1.8
+
+### Patch Changes
+
+- [#2544](https://github.com/devopness/devopness/pull/2544) [`5a31613`](https://github.com/devopness/devopness/commit/5a31613a8711bd5398aefda3d3cadf160c1c39e8) Thanks [@Diegiwg](https://github.com/Diegiwg)! - Fix the `ActionTargetCredentialData::provider_code` type to include `Source Providers` (ProviderCode::Enum)
+
+## 2.1.7
+
+### Patch Changes
+
+- [#2532](https://github.com/devopness/devopness/pull/2532) [`8052719`](https://github.com/devopness/devopness/commit/80527194b5711abaabcf430fb4e5a1b9e5e62dfa) Thanks [@Diegiwg](https://github.com/Diegiwg)! - Fix runtime errors when invoking devopness.hooks.delete_hook and devopness.hooks.get_hook.
+
 ## 2.1.6
 
 ### Patch Changes
